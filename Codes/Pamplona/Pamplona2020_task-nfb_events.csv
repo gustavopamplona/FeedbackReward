@@ -1,0 +1,16 @@
+onset,duration,event,trial
+2,40,baseline,1
+42,40,regulation,1
+82,4,feedback,1
+86,30,baseline,2
+116,40,regulation,2
+156,4,feedback,2
+160,30,baseline,3
+190,40,regulation,3
+230,4,feedback,3
+234,30,baseline,4
+264,40,regulation,4
+304,4,feedback,4
+308,30,baseline,5
+338,40,regulation,5
+378,2,feedback,5
